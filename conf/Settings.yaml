@@ -1,0 +1,54 @@
+Redmine:
+  HOST: 'https://***.com'
+  KEY: '***************************************'
+
+VirusTotal:
+  API:
+    URLSCAN:
+      HOST: 'https://www.virustotal.com/vtapi/v2/url/report'
+    FILESCAN:
+      HOST: 'https://www.virustotal.com/vtapi/v2/file/report'
+    KEY: '***************************************'
+  URLSCAN:
+    HOST: 'https://www.virustotal.com/gui/url/'
+  FILESCAN:
+    HOST: 'https://www.virustotal.com/gui/file/'
+  IPSCAN:
+    HOST: 'https://www.virustotal.com/gui/ip-address/'
+
+XForce:
+  API:
+    URLSCAN:
+      HOST: 'https://api.xforce.ibmcloud.com/url/'
+    FILESCAN:
+      HOST: 'https://api.xforce.ibmcloud.com/malware/'
+    IPSCAN:
+      HOST: 'https://api.xforce.ibmcloud.com/ipr/'
+    WHOIS:
+      HOST: 'https://api.xforce.ibmcloud.com/whois/'
+    APIKEY: '****-******-*****-****-***-****'
+    APIPASS: '****-******-******-*****-****'
+  URLSCAN:
+    HOST: 'https://exchange.xforce.ibmcloud.com/url/'
+  FILESCAN:
+    HOST: 'https://exchange.xforce.ibmcloud.com/malware/'
+  IPSCAN:
+    HOST: 'https://exchange.xforce.ibmcloud.com/ip/'
+
+CiscoAMP:
+  COMPUTER:
+    HOST: 'https://api.amp.cisco.com/v1/computers'
+  EVENT:
+    HOST: 'https://api.amp.cisco.com/v1/events'
+  APIID: ''
+  APIKEY: '********-*********-*********-****'
+
+QRadar:
+  HOST: ''
+  KEY: ''
+
+Mail:
+  IMAP:
+    ACCOUNT: '******@*****.onmicrosoft.com'
+    SERVER: 'outlook.office365.com'
+    PASSWORD: '********************'

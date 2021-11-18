@@ -1,0 +1,5 @@
+WHOIS レコード
+作成日: {0[createdDate]}
+更新日: {0[updatedDate]}
+登録者の組織: {0[organization]}
+登録者の国または地域: {0[country]}

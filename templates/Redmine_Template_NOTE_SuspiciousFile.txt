@@ -1,0 +1,22 @@
+h3. 調査
+
+* Operating System：{0[operating_system]}
+* Connector Version：{0[connector_version]}
+* CiscoAMP
+** Device Trajectory
+<Device Trajectoryの画像を添付してください>
+** Event Details
+<pre>
+<Event Detailsの内容を記載してください>
+</pre>
+* 被疑ファイル
+** ファイル名：{1[file_name]}
+** ファイルパス：{1[file_path]}
+** ハッシュ値：{1[sha256]}
+*** VT：{2}
+url: {3}
+*** X-Force： {4}
+url: {5}
+<pre>
+{6}
+</pre>

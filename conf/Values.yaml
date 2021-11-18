@@ -1,0 +1,13 @@
+Events:
+  redmine-test:
+    発生日:
+      id:
+        '1'
+      name:
+        'custom_field_values[1]'
+
+    発生時刻:
+      id:
+        '2'
+      name:
+        'custom_field_values[2]'

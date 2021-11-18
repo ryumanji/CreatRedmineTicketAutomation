@@ -1,0 +1,4 @@
+詳細
+カテゴリー化(%): {0[Category(%)]}
+アクション: {0[Action]}
+アプリケーション: {0[categoryDescriptions][0]}

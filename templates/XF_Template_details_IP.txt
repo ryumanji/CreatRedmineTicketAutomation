@@ -1,0 +1,5 @@
+詳細
+カテゴリー化(%): {0[Category(%)]}
+ASN: {0[Company(ASN)]}
+ロケーション: {0[Country]}
+アプリケーション: {0[categoryDescriptions]}
